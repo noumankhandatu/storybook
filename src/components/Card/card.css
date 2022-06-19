@@ -1,0 +1,19 @@
+.card {
+  box-shadow: 2px 4px 8px grey;
+  width: 400px;
+  height: 350px;
+  text-align: center;
+  background-color: orange;
+  color: white;
+  letter-spacing: 2px;
+}
+
+.primary {
+  background-color: lightblue;
+  color: white;
+}
+
+.secondary {
+  background-color: orchid;
+  color: white;
+}
